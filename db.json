@@ -1,0 +1,47 @@
+{
+  "gyuri": [
+    {
+      "id": 1,
+      "title": "111",
+      "author": "111"
+    },
+    {
+      "title": "gd",
+      "body": "gd",
+      "id": 3
+    },
+    {
+      "title": "ㄱㄴ?",
+      "body": "fsddsf",
+      "id": 4,
+      "author": "ㄱㄴㄴㄱ"
+    },
+    {
+      "title": "크로크",
+      "author": "맛있다!",
+      "id": 6
+    },
+    {
+      "title": "ㅁㄹㅇㄴㄻㅇㄴ",
+      "author": "ㅁㄹㅇㄴㄷㅇㄴㄹㅇㄹ",
+      "id": 7
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
